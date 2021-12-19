@@ -1,0 +1,31 @@
+{
+  "name": "folders.js",
+  "version": "1.0.0",
+  "description": "A Node.js implementation of the Folders esoteric programming language.",
+  "bin": {
+    "folders": "bin/folders"
+  },
+  "scripts": {
+    "test": "folders examples/HelloWorld"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwbjustin/folders.js.git"
+  },
+  "keywords": [
+    "folder",
+    "folders",
+    "foldersjs",
+    "folders.js"
+  ],
+  "author": "BWBJustin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bwbjustin/folders.js/issues"
+  },
+  "homepage": "https://github.com/bwbjustin/folders.js#readme",
+  "dependencies": {
+    "arg": "^5.0.1",
+    "jsesc": "^3.0.2"
+  }
+}
